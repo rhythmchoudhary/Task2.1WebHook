@@ -1,6 +1,3 @@
-// Use this file to store all of the private credentials 
-// and connection details
-
 #define SECRET_SSID "Redmi Note 11"		// replace MySSID with your WiFi network name
 #define SECRET_PASS "mikul5432"	// replace MyPassword with your WiFi password
 
