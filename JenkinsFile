@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DIRECTORY_PATH = "https://github.com/rhythmchoudhary/Task-1.1P.git"
+        DIRECTORY_PATH = "https://github.com/rhythmchoudhary/Task2.1WebHook.git"
         TESTING_ENVIRONMENT = "Testing_Env"
         PRODUCTION_ENVIRONMENT = "Rhythm_choudhary"  // Change this to your name
         RECIPIENT_EMAIL = "rhythmxa3011@gmail.com"
