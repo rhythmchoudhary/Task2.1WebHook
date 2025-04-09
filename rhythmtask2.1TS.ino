@@ -41,7 +41,7 @@ void loop() {
   // here a "if condition" is applied, so that we can check that the reading taken from sensor is a number or not.     ^^^^^^^^^(isnan = Is Not A Number)^^^^^^^^^
   if (isnan(humidity) || isnan(temperature)) {
     // if the readings are not valid then this message will be printed
-    Serial.println("Error: Could not read from DHT sensor!");
+    Serial.println("Error: Could not read from DHT sensor! Please cehck my edits. ");
     // from here the loop will start again
     return;
   }
