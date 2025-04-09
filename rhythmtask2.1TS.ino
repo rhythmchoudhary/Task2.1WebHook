@@ -7,7 +7,7 @@
 #define DHTPIN 2
 #define DHTTYPE DHT22
 
-char ssid[] = YASOOB;   // your network SSID (name) 
+char ssid[] = rhythm;   // your network SSID (name) 
 char pass[] = SECRET_PASS;   // your network password
 
 // this is the unique channel number on ThingSpeak where we will send our data
